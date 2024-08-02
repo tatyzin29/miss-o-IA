@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em resumo";
+    caixaPerguntas.textContent = "Em resumo...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }

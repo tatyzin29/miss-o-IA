@@ -58,7 +58,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como podemos reduzir nossa pegada de carbono? ",
+        enunciado: "Como podemos reduzir nossa camada de carbono? ",
         alternativas: [
             {
                 texto: "Usando transporte público em vez de carros individuais",
